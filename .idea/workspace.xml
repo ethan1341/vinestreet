@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd339efd-ac99-4344-aa89-6c63f84234b2" name="Default" comment="" />
+    <list default="true" id="cd339efd-ac99-4344-aa89-6c63f84234b2" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme-1.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme-10.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme-2.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme-3.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme-4.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme-5.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme-6.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme-7.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme-8.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme-9.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme/_about-section.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme/_base.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme/_contact-section.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme/_demo.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme/_footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme/_gigs-section.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme/_header.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme/_merch-section.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme/_modal.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme/_music-section.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme/_promo-section.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme/_responsive.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/theme/_theme-custom.scss" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +60,7 @@
       <file leaf-file-name="theme-1.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/decibel-bs4/assets/css/theme-1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
+            <state relative-caret-position="-2277">
               <caret line="7" column="19838" lean-forward="false" selection-start-line="7" selection-start-column="19838" selection-end-line="7" selection-end-column="19838" />
               <folding />
             </state>
@@ -55,6 +81,9 @@
       <find>3rd</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -74,12 +103,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="379" />
-    <option name="y" value="195" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="942" />
+    <option name="y" value="196" />
     <option name="width" value="1233" />
     <option name="height" value="666" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -246,15 +276,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530672591929</updated>
-      <workItem from="1530672593162" duration="3010000" />
+      <workItem from="1530672593162" duration="3221000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3010000" />
+    <option name="totallyTimeSpent" value="3221000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="2418" height="1318" extended-state="6" />
+    <frame x="942" y="196" width="1233" height="666" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -264,11 +294,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.76209676" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24978651" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.505618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -305,7 +335,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/decibel-bs4/assets/css/theme-1.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
+        <state relative-caret-position="-2277">
           <caret line="7" column="19838" lean-forward="false" selection-start-line="7" selection-start-column="19838" selection-end-line="7" selection-end-column="19838" />
           <folding />
         </state>
